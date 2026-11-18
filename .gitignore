@@ -1,0 +1,7 @@
+# Local editor / Claude Code settings
+.claude/
+
+# Windows & macOS clutter
+Thumbs.db
+desktop.ini
+.DS_Store
