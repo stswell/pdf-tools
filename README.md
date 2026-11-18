@@ -55,11 +55,3 @@ The page loads its libraries (pdf-lib, PDF.js, JSZip, Tesseract.js) and fonts fr
 | `js/editor.js` | Edit and Sign (shared page editor) |
 | `js/home.js` | Builds the home page cards |
 | `assets/logo.png` | Company logo |
-
-## Putting it online for free (later)
-
-1. Create a **private** repository on GitHub and push this folder to it.
-2. Sign in to [Cloudflare Pages](https://pages.cloudflare.com/) (or Netlify/Vercel) with GitHub and pick the repository.
-3. Build settings: no framework, no build command, output directory `/`.
-4. You get a free link like `pdf-tools.pages.dev`, and every push updates it automatically.
-5. To limit it to staff, turn on Cloudflare Access for the site (free for small teams) so people sign in with their company email.
