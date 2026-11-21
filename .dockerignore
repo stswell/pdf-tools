@@ -1,0 +1,11 @@
+# Only the website goes into the image
+.git
+.gitignore
+.gitattributes
+.dockerignore
+.nojekyll
+.claude
+Dockerfile
+deploy/
+serve.py
+README.md
